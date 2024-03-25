@@ -1,3 +1,87 @@
+body {
+    font-family: 'Roboto' sans-serif;
+    color: #2E2F42;
+    background-color: #E7E9FC;
+}
+
+.web-logo {
+   font-family: 'Raleway' sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 21px;
+   color: #4D5AE5;
+}
+
+.studio-logo {
+    font-family: 'Raleway' sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #2E2F42;
+}
+
+.frontpage {
+    width: 1440px;
+    height: 600px;
+        background-color: #2E2F42;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.hearer-link {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #2E2F42;
+}
+
+
+.contact {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+
+.header1 {
+    
+    
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    
+    
+}
+
+.button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4 4 0;
+    cursor: pointer;
+}
+
+.button-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+ }
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
 h1 {
     text-align: center;
 }
