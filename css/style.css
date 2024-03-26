@@ -21,8 +21,8 @@ body {
 }
 
 .frontpage {
-    width: 1440px;
-    height: 600px;
+    
+    
         background-color: #2E2F42;
     color: #FFFFFF;
     text-align: center;
@@ -41,6 +41,11 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
+    text-align: center;
+}
+
+.contact:hover {
+    color: white;
 }
 
 
@@ -75,7 +80,11 @@ body {
  }
 
 a {
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 li {
@@ -86,9 +95,72 @@ h1 {
     text-align: center;
 }
 
+h2 {
+color: #2E2F42;    
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+h3 {
+    color: #2E2F42;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+.pref-head {
+color: #2E2F42;    
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.pref-text {
+    color: #434455;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
 .portfolios-links {
     text-align: center;
 }
+
+.photo {
+    
+}
+
+.profession {
+    color:#434455;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+
+
+
 
 .bankapp{
     align: left;
@@ -96,4 +168,27 @@ h1 {
 
 .bankimg {
     align: left;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.studio-logo-footer {
+    font-family: 'Raleway' sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #F4F4FD;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+
 }
