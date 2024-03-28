@@ -63,8 +63,7 @@ body {
 
 .contact {
     font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
+        line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
@@ -82,8 +81,7 @@ body {
 
 .header-logo {
     font-size: 56px;
-    font-weight: 700;
-    line-height: 1.07;
+        line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
@@ -116,7 +114,6 @@ a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
 }
 
@@ -124,9 +121,6 @@ li {
     list-style-type: none;
 }
 
-h1 {
-    text-align: center;
-}
 
 
 
